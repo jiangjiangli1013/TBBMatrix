@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TBBMatrix">
+    <Position X="2.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAABEBAIAACACCAAAIAAAAAAAAAAAEEAAI=</HashCode>
+      <FileName>tbbmatrix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBBMatrix_Multiply_Parallel">
+    <Position X="7.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAADgAAAAAMAJIAAAA=</HashCode>
+      <FileName>tbbmatrix_multiply_parallel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TBBMatrix_Add_Parallel">
+    <Position X="5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAEAAAAAIAAAAADgAAAAAAABIAAAA=</HashCode>
+      <FileName>tbbmatrix_add_parallel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>
